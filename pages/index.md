@@ -12,8 +12,9 @@ Our team got its start at the [Institute for Digital Arts and Humanities](https:
 
 Lead Curator:
 - Claudia González-Díaz
+  
 Co-Curators:
-- Aine Powerss
+- Aine Powers
 - Camila Aguayo
 - Hailee Corbin
 - Maryluna Santos Giraldo
