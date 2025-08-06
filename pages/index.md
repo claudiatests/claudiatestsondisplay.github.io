@@ -1,5 +1,5 @@
 ---
-title: IDAH Community Archiving Template
+title: On Display: A 21st Century Salon des Refusés
 layout: homepage
 permalink: /
 ---
@@ -10,8 +10,11 @@ Visit our main site for information on how to build relationships, hold communit
 
 Our team got its start at the [Institute for Digital Arts and Humanities](https://idah.indiana.edu/) at Indiana University Bloomington and is now funded by the [Digital Justice Development Grant program at the American Council on Learned Societies](https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024).
 
-Principal Project Team:
-- Michelle Dalmau
-- Vanessa Elias
-- Kalani Craig
-- Jazma Sutton
+Lead Curator:
+- Claudia González-Díaz
+Co-Curators:
+- Aine Powerss
+- Camila Aguayo
+- Hailee Corbin
+- Maryluna Santos Giraldo
+
